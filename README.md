@@ -1,5 +1,5 @@
 # covidRDD
-Group project on covid lockdowns, dataset found on Gouvernement du Québec's website. Part 2 was my contribution.  
+Group project on covid lockdowns, dataset found on [Gouvernement du Québec's website](https://www.donneesquebec.ca/recherche/dataset/covid-19-portrait-quotidien-des-cas-confirmes). Part 2 was my contribution.  
 
 ### Project Description
 This project focuses on analyzing the impact of specific events related to the COVID-19 pandemic on the number of confirmed cases in Quebec, Canada.  
