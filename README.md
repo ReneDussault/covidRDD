@@ -4,7 +4,7 @@ Group project on covid lockdowns, dataset found on [Gouvernement du Québec's we
 ### Project Description
 This project focuses on analyzing the impact of specific events related to the COVID-19 pandemic on the number of confirmed cases in Quebec, Canada.  
 The project is divided into three parts, each examining the effects of a different event. This condensed description is presented in a simple and easy-to-understand manner,  
-without delving into technical details. 
+without delving into technical details. Refer to the notebook, covidRDD.ipynb for code.
 
 ### The three parts are as follows:  
 #### 1. The 20/3/2020 lockdown (MooJin)
